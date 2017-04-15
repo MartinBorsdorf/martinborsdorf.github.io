@@ -1,0 +1,245 @@
+* {
+	font-family: "Sans-serif","Arial Black";
+}
+
+/*a { color: #39c; text-decoration: none; }*/
+
+/*a:hover { color: #069; }*/
+
+a small { font-size: 11px; color: #777; margin-top: -0.3em; display: block; }
+
+a:hover small { color: #777; }
+
+
+
+/*.wrap {
+	margin: 100px auto;
+	padding: 0px 0;
+	border: 5px dashed orange ;
+}*/
+
+
+
+.myhead {
+	position: center;
+	margin: 10px auto;
+	width: 100%;
+	height: 110px;
+}
+
+.mynametitle {
+	font-size: 35px;
+	margin-top: 0px;
+	width: 100%;
+}
+
+.mykey {
+	color: #333;
+	text-decoration: none;
+}
+
+/* Seiten-Titel mit Quotes im Kopf */
+.page-title {
+	margin-top: -10px;
+	color: #333;
+	height: 40px;
+	display: inline-block;
+	text-align: center;
+}
+
+.left-q {
+	float: left;
+	width: 15px;
+	margin-right: 0px auto;
+	padding-top: 25px;
+}
+
+.center-q {
+	float: left;
+	padding: 10px 0;
+	text-align: center;
+	font-size: 150%;
+}
+
+.right-q {
+	float: left;
+	width: 15px;
+	margin-left: 0px auto;
+	padding-left: 2px;
+	padding-top: 2px;
+}
+/*------------------------------*/
+
+.startseite {
+	color: #333;
+	font-size: 120%;
+	font-weight: 900;
+}
+
+
+.page-link-head {
+	color: white;
+	padding: 5px 10px;
+	text-decoration: none;
+}
+
+.page-link {
+	color: white;
+	text-decoration: none;
+}
+
+.page-link:hover, .page-link-head:hover, .mykey:hover {
+	color: #9E9E9E;
+}
+
+.footer-nav {
+	font-size: 90%;
+	margin: 0px auto;
+	padding-top: 10px;
+}
+
+.tools-font {
+	font-size: 70%;
+	color: white;
+	text-decoration: none;
+}
+
+.font-copyright {
+	font-size: 70%;
+	color: white;
+	text-decoration: none;
+}
+
+.tools-font:hover {
+	color: black;
+}
+
+/*.maincontainer {
+	border: 2px dashed orange;
+}*/
+
+.news {
+	float: left;
+	position: fixed;
+	width: 10%;
+	height: 100px;
+	margin: 0px auto;
+	background-color: #333;
+	border: 3px dashed blue;
+}
+.post-content, a {
+	text-align: left;
+	text-decoration: none;
+}
+.page-content {
+	text-align: center;
+  	margin: 5px auto;
+  	width: 50%;
+  	height:100%;
+  	padding: 0px 0;
+  	background-color: #fff;
+  	/*border: 3px dashed red;*/
+}
+
+.site-nav {
+	font-size: 18px;
+	margin: 0px auto;
+	margin-top: -28px;
+	padding: 0px;
+	line-height: 20px;
+}
+
+/*.site-nav .menu-icon { display: none; }*/
+
+/*.site-nav .page-link {
+  margin-left: 20px;
+  color: #727272;
+  letter-spacing: -.5px;
+}*/
+
+.site-header {
+	  text-align: center;
+	  margin: 0px auto;
+	  padding: 0px 0;
+	  width: 100%;
+	  top:0px;
+	  border-top: 35px solid #333;
+	  border-bottom: 1px solid #e8e8e8;
+	  min-height: 56px;
+	  background-color: white;
+}
+
+.site-footer {
+	text-align: center;
+	height: 20%;
+	background-color: #333;
+}
+
+
+/*
+@media screen and (max-width: 600px) {
+
+  .wrap { padding: 0 12px; }
+
+  .site-nav {
+    position: fixed;
+    z-index: 10;
+    top: 14px; right: 8px;
+    background-color: white;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    border: 1px solid #e8e8e8;
+  }
+
+  .site-nav .menu-icon {
+    display: block;
+    font-size: 24px;
+    color: #505050;
+    float: right;
+    width: 36px;
+    text-align: center;
+    line-height: 36px;
+  }
+
+  .site-nav .menu-icon svg { width: 18px; height: 16px; }
+
+  .site-nav .trigger {
+    clear: both;
+    margin-bottom: 5px;
+    display: none;
+  }
+
+  .site-nav:hover .trigger { display: block; }
+
+  .site-nav .page-link {
+    display: block;
+    text-align: right;
+    line-height: 1.25;
+    padding: 5px 10px;
+    margin: 0;
+  }
+
+  .post-header h1 { font-size: 36px; }
+  .post-content h2 { font-size: 28px; }
+  .post-content h3 { font-size: 22px; }
+  .post-content h4 { font-size: 18px; }
+  .post-content blockquote { padding-left: 10px; }
+  .post-content ul,
+  .post-content ol { padding-left: 10px; }
+
+  .site-footer .column {
+    float: none;
+    clear: both;
+    width: auto;
+    margin: 0 0 15px; }
+}
+
+*/
+
+/*
+@font-face { font-family: 'Noto Sans'; font-weight: 400; font-style: normal; src: url("../fonts/Noto-Sans-regular/Noto-Sans-regular.eot"); src: url("../fonts/Noto-Sans-regular/Noto-Sans-regular.eot?#iefix") format("embedded-opentype"), local("Noto Sans"), local("Noto-Sans-regular"), url("../fonts/Noto-Sans-regular/Noto-Sans-regular.woff2") format("woff2"), url("../fonts/Noto-Sans-regular/Noto-Sans-regular.woff") format("woff"), url("../fonts/Noto-Sans-regular/Noto-Sans-regular.ttf") format("truetype"), url("../fonts/Noto-Sans-regular/Noto-Sans-regular.svg#NotoSans") format("svg"); }
+@font-face { font-family: 'Noto Sans'; font-weight: 700; font-style: normal; src: url("../fonts/Noto-Sans-700/Noto-Sans-700.eot"); src: url("../fonts/Noto-Sans-700/Noto-Sans-700.eot?#iefix") format("embedded-opentype"), local("Noto Sans Bold"), local("Noto-Sans-700"), url("../fonts/Noto-Sans-700/Noto-Sans-700.woff2") format("woff2"), url("../fonts/Noto-Sans-700/Noto-Sans-700.woff") format("woff"), url("../fonts/Noto-Sans-700/Noto-Sans-700.ttf") format("truetype"), url("../fonts/Noto-Sans-700/Noto-Sans-700.svg#NotoSans") format("svg"); }
+@font-face { font-family: 'Noto Sans'; font-weight: 400; font-style: italic; src: url("../fonts/Noto-Sans-italic/Noto-Sans-italic.eot"); src: url("../fonts/Noto-Sans-italic/Noto-Sans-italic.eot?#iefix") format("embedded-opentype"), local("Noto Sans Italic"), local("Noto-Sans-italic"), url("../fonts/Noto-Sans-italic/Noto-Sans-italic.woff2") format("woff2"), url("../fonts/Noto-Sans-italic/Noto-Sans-italic.woff") format("woff"), url("../fonts/Noto-Sans-italic/Noto-Sans-italic.ttf") format("truetype"), url("../fonts/Noto-Sans-italic/Noto-Sans-italic.svg#NotoSans") format("svg"); }
+@font-face { font-family: 'Noto Sans'; font-weight: 700; font-style: italic; src: url("../fonts/Noto-Sans-700italic/Noto-Sans-700italic.eot"); src: url("../fonts/Noto-Sans-700italic/Noto-Sans-700italic.eot?#iefix") format("embedded-opentype"), local("Noto Sans Bold Italic"), local("Noto-Sans-700italic"), url("../fonts/Noto-Sans-700italic/Noto-Sans-700italic.woff2") format("woff2"), url("../fonts/Noto-Sans-700italic/Noto-Sans-700italic.woff") format("woff"), url("../fonts/Noto-Sans-700italic/Noto-Sans-700italic.ttf") format("truetype"), url("../fonts/Noto-Sans-700italic/Noto-Sans-700italic.svg#NotoSans") format("svg"); }
+*/

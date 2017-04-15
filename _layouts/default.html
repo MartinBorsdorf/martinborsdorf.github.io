@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+  {% include head.html %}
+  <body>
+  {% include header.html %}
+      <div class="maincontainer">
+		  <!--<div class="news">
+		  {% include info.html %}
+		  </div>-->
+		  <div class="page-content">	  
+		  {{ content }}	  
+		  </div>
+      </div>
+      <!--<section>
+      </section>-->
+    {% include footer.html %}
+     
+    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+  </body>
+</html>
+
