@@ -2,7 +2,7 @@
 layout: page
 title: aktivitäten
 author: Martin
-permalink: /aktivitäten/
+permalink: /aktiv/
 ---
 
 
