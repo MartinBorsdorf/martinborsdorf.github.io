@@ -5,7 +5,7 @@ title: Startseite
  
 <p>Hier gibt es Informationen über mich und meinen Tätigkeiten.</p>
 
-Mein Name ist Martin und ich interessiere mich für:
+Mein Name ist Martin und meine Schwerpunkte sind:
 
  * IT-Sicherheit
  * Kryptographie
