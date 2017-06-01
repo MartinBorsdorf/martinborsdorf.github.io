@@ -18,7 +18,7 @@ Ich habe mich auf das Thema IT-Sicherheit spezialisiert und arbeite bevorzugt mi
 
 ### IT-Kompetenzen
 
-* C, Python, Java, Bash, SQLite, MySQL, LaTeX
+* C, Python, Java, Bash, SQLite, MySQL, LaTeX, Git, Jekyll, Jenkins
 
 ### Ausbildung
 
