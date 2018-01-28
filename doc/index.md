@@ -11,6 +11,7 @@ Ich habe mich auf das Thema IT-Sicherheit spezialisiert und arbeite bevorzugt mi
 
 ### Berufliche Tätigkeiten
 
+* Centron Bamberg
 * PVA Dresden
 * IAV GmbH Ingenieurgesellschaft Auto und Verkehr Chemnitz
 * BKA Wiesbaden
@@ -18,7 +19,7 @@ Ich habe mich auf das Thema IT-Sicherheit spezialisiert und arbeite bevorzugt mi
 
 ### IT-Kompetenzen
 
-* C, Python, Java, Bash, SQLite, MySQL, LaTeX, Git, Jekyll, Jenkins
+* C, Python, Java, Bash, SQLite, MySQL, Apache2, LaTeX, Git, Jekyll, Jenkins, Ansible 
 
 ### Ausbildung
 
